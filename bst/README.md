@@ -1,0 +1,1 @@
+None means Nothing, Nothing is a concept that describes the absence of anything at all. Nothing is sometimes confused with Null, but they are very different concepts because Nothing means absence of anything, while Null means unknown (you do not know if there is a thing or not)
