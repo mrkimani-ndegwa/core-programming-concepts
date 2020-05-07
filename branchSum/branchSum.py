@@ -4,6 +4,7 @@ def cl(node, total, l):
     bSum = node.value + total
     if node.left is None and node.right is None:
         l.append(bSum)
+        return
     cl(node.left, bSum, l)
     cl(node.right, bSum, l)
 
